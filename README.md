@@ -37,10 +37,11 @@
 
 여러 줄의 코드는 다음과 같이 줄 첫 부분을 공백 4칸 이상 띄어서 쓴다.
 clojure
+    #!/usr/bin/env clojure
+    (println "Hello, World!")
 
 ### 인용문
 >> 빛이 있으라.
 > 하니 빛이 있었다.
-    #!/usr/bin/env clojure
-    (println "Hello, World!")
+
 
