@@ -42,9 +42,9 @@ clojure
     #!/usr/bin/env clojure
     (println "Hello, World!")
 
-'''Python
+```Python
 print('hello world')
-'''
+```
 
 ### 인용문
 >> 빛이 있으라.
