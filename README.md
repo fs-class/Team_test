@@ -32,6 +32,7 @@
 #### 기울임꼴
 *기울게* 쓰면서 _기울게_ 쓴다
 
+아래 내용은 기울임 꼴 글자로 처리하지 않는다.
 do_this_and_do_that
 
 ### 코드
@@ -42,6 +43,7 @@ clojure
     #!/usr/bin/env clojure
     (println "Hello, World!")
 
+코드를 입력할 때 ```로 감싸주는 문법이 추가되었다.
 ```Python
 print('hello world')
 ```
